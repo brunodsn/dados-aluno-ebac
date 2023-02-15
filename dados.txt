@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Bruno
+-Profissão: Desempregado
+-Cidade: Lisboa - Portugal
+-O que faz nas horas vaga: No momento dedico minhas horas vagas para estudos
+-Feedback sobre o curso Qualidade de Software: Prezo muito por qualidades, e o curso Qualidade de Software é incrivel, tanto a qualidade do video quanto a didática do professor
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma organizada, de facíl acesso que colabora com o estudo do aluno
 
 Obrigado!!!
 
